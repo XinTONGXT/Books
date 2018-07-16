@@ -1,0 +1,26 @@
+Diese CD-ROM ist eine multimediale Ergänzung zum Lehrbuch „Strömungsmaschinen“ von Herbert Sigloch 
+(© Carl Hanser Verlag 2013).
+Sie kann mit einem Standard-PC mit dem Betriebssystem Microsoft Windows® (2000, Vista, XP, 7) 
+verwendet werden. 
+Die Bedienoberfläche der CD wurde im HTML-Format erstellt und kann mit einem Internet-Browser 
+(beispielsweise Internet Explorer®, Firefox® usw.) angezeigt werden. 
+
+Zur optimalen Arbeit mit der CD sollten folgende Voraussetzungen erfüllt sein: 
+• Monitorauflösung mindestens 1024 × 768 Pixel
+• Anzeige-Einstellung "Kleine Schriftarten"
+• 16-Bit-Soundkarte
+• Es müssen die jeweils benötigten Programme installiert sein (siehe unten) 
+
+Ist die Autostart-Funktion des Laufwerkes aktiviert, öffnet sich die Startseite automatisch, 
+andernfalls öffnen Sie im Browser die Datei „index.htm" auf der CD-ROM.
+
+Auf der CD-ROM befinden sich Abbildungen, Animationen, Filme, Berechnungsprogramme und PDF-Daten 
+Ergänzungen zum Text, Tafeln sowie Übungsbeispiele mit den zugehörigen Lösungen.
+
+Die Ergänzungen, Lösungen, Tafeln und Übungsbeispiele liegen im PDF-Format vor. Zum Anzeigen der 
+PDF-Dateien muss der Adobe Reader installiert sein. Andernfalls finden Sie auf der CD-ROM unter 
+der Rubrik „Download“ den Link zum Herunterladen des kostenlosen Adobe Reader.
+
+Zur Anzeige der Animationen und Filme ist eines der Programme QuickTime Player, RealPlayer, 
+VLC media player, Windows Media Player bzw. Adobe Shockwave Player erforderlich. Alle Player können 
+in einer kostenlosen Version aus dem Internet heruntergeladen werden (Links unter "Download").
